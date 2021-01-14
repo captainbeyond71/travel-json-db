@@ -1,0 +1,34 @@
+{
+  "cardContent": [
+    {
+      "id": 1,
+      "image": "https://placeimg.com/400/200/nature",
+      "title": "Explore the hidden waterfall deep inside the Amazon Jungle",
+      "description": "Adventure"
+    },
+    {
+      "id": 2,
+      "image": "https://placeimg.com/400/200/nature",
+      "title": "Travel through the islands of Bali in private cruise",
+      "description": "Jungle"
+    },
+    {
+      "id": 3,
+      "image": "https://placeimg.com/400/200/nature",
+      "title": "Explore the hidden waterfall deep inside the Amazon Jungle",
+      "description": "Adventure"
+    },
+    {
+      "id": 4,
+      "image": "https://placeimg.com/400/200/nature",
+      "title": "Travel through the islands of Bali in private cruise",
+      "description": "Jungle"
+    },
+    {
+      "id": 5,
+      "image": "https://placeimg.com/400/200/nature",
+      "title": "Travel through the islands of Bali in private cruise",
+      "description": "Adventure"
+    }
+  ]
+}
